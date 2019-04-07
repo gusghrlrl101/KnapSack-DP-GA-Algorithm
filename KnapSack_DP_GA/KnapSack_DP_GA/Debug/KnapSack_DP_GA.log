@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\hyunho\source\repos\knapsack_dp_ga\knapsack_dp_ga\knapsack_ga.h(38): warning C4244: '인수': '__int64'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+c:\users\hyunho\source\repos\knapsack_dp_ga\knapsack_dp_ga\knapsack_ga.h(146): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunho\source\repos\knapsack_dp_ga\knapsack_dp_ga\knapsack_ga.h(147): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunho\source\repos\knapsack_dp_ga\knapsack_dp_ga\knapsack_ga.h(186): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunho\source\repos\knapsack_dp_ga\knapsack_dp_ga\knapsack_ga.h(211): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunho\source\repos\knapsack_dp_ga\knapsack_dp_ga\knapsack_ga.h(212): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunho\source\repos\knapsack_dp_ga\knapsack_dp_ga\knapsack_ga.h(220): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunho\source\repos\knapsack_dp_ga\knapsack_dp_ga\knapsack_ga.h(221): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KnapSack_DP_GA.vcxproj -> C:\Users\HYUNHO\source\repos\KnapSack_DP_GA\Debug\KnapSack_DP_GA.exe
